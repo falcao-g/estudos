@@ -1,9 +1,7 @@
-# html_css_notes
-<h2>Projects and notes from my html/css studies</h2>
+# html_css
+<h2>Porjetos e anotações dos meus estudos de html e css</h2>
 
-<h3>All courses are from: https://www.alura.com.br/</h3>
-
-<h4>Basic HTML/CSS relevant links:</h4>
+<h4>Links relevantes de HTML e CSS básico:</h4>
   <p>https://www.alura.com.br/artigos/nomes-de-classes-no-css/</p>
   <p>https://www.alura.com.br/artigos/organizando-o-css-no-seu-projeto/</p>
   <p>http://mobileinputtypes.com//</p>
@@ -25,11 +23,11 @@
   <p>http://flexboxfroggy.com//</p>
   <p>http://www.flexboxdefense.com//</p>
   
-<h4>Responsive design:</h4>
+<h4>Design responsivo:</h4>
   <p>https://css-tricks.com/snippets/css/media-queries-for-standard-devices//</p>
   <p>https://www.alura.com.br/artigos/como-lidar-com-os-limites-de-resolucao-em-sites-responsivos/</p>
   
-<h4>Others:</h4>
+<h4>Outros:</h4>
   <p>https://css-tricks.com/when-using-important-is-the-right-choice//</p>
   <p>https://www.w3schools.com/html/html5_semantic_elements.asp/</p>
   <p>https://caniuse.com/</p>
