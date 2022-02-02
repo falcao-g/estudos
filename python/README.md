@@ -23,8 +23,7 @@
 <p>https://tableless.com.br/o-basico-sobre-expressoes-regulares/</p>
 
 <h4>Datetime:</h4>
-<thead><tr><th>Caracteres</th><th>Descrição</th><th>Exemplos</th></tr></thead><tbody><tr><td>%A</td><td>Dias da semana por extenso</td><td>Sunday, Monday, ...</td></tr><tr><td>%d</td><td>Dias do mês</td><td>01, 02, ..., 31</td></tr><tr><td>%m</td><td>Meses em formato de números</td><td>01, 02, ..., 12</td></tr><tr><td>%y</td><td>Ano em formato de 2 dígitos</td><td>99, 15</td></tr><tr><td>%Y</td><td>Ano em formato de 4 dígitos</td><td>1993, 2011</td></tr><tr><td>%H</td><td>Hora em formato decimal</td><td>00, 01, ..., 23</td></tr><tr><td>%M</td><td>Minuto em formato decimal</td><td>00, 01, ..., 59</td></tr><tr><td>%S</td><td>Segundo em formato decimal</td><td>00, 01, ..., 59</td></tr></tbody>
-<p>https://www.alura.com.br/artigos/lidando-com-datas-e-horarios-no-python</p>
+<table><thead><tr><th>Caracteres</th><th>Descrição</th><th>Exemplos</th></tr></thead><tbody><tr><td>%A</td><td>Dias da semana por extenso</td><td>Sunday, Monday, ...</td></tr><tr><td>%d</td><td>Dias do mês</td><td>01, 02, ..., 31</td></tr><tr><td>%m</td><td>Meses em formato de números</td><td>01, 02, ..., 12</td></tr><tr><td>%y</td><td>Ano em formato de 2 dígitos</td><td>99, 15</td></tr><tr><td>%Y</td><td>Ano em formato de 4 dígitos</td><td>1993, 2011</td></tr><tr><td>%H</td><td>Hora em formato decimal</td><td>00, 01, ..., 23</td></tr><tr><td>%M</td><td>Minuto em formato decimal</td><td>00, 01, ..., 59</td></tr><tr><td>%S</td><td>Segundo em formato decimal</td><td>00, 01, ..., 59</td></tr></tbody></table>
 <p>https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior</p>
 <p>https://www.alura.com.br/artigos/lidando-com-datas-e-horarios-no-python</p>
 
