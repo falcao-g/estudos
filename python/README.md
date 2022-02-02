@@ -18,7 +18,7 @@
 <p>https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Factory.html</p>
 
 <h4>RegEx:</h4>
-<table><thead><tr><th>Caracteres</th><th>Descrição</th><th>Exemplos</th></tr></thead><tbody><tr><td>[]</td><td>Define um range ou um grupo de caracteres</td><td>[0-9]; [a-z]; [abc]</td></tr><tr><td></td><td>Marca nenhuma, uma ou mais ocorrências</td><td>sol</td></tr><tr><td>{}</td><td>Quantidade de repetições de uma ocorrência definida</td><td>[abc]{5}</td></tr><tr><td>\d</td><td>Qualquer número de 0 até 9</td><td>\d{3,4}</td></tr><tr><td>\w</td><td>Qualquer número de a té 9 letra de a até z ou _</td><td>\w{10}</td></tr><tr><td>|</td><td>Um ou outro</td><td>@$</td></tr><tr><td>()</td><td>Captura e agrupa</td><td>(\w{4})</td></tr></tbody></table>
+<table><thead><tr><th>Caracteres</th><th>Descrição</th><th>Exemplos</th></tr></thead><tbody><tr><td>[]</td><td>Define um range ou um grupo de caracteres</td><td>[0-9]; [a-z]; [abc]</td></tr><tr><td>*</td><td>Marca nenhuma, uma ou mais ocorrências</td><td>sol*</td></tr><tr><td>{}</td><td>Quantidade de repetições de uma ocorrência definida</td><td>[abc]{5}</td></tr><tr><td>\d</td><td>Qualquer número de 0 até 9</td><td>\d{3,4}</td></tr><tr><td>\w</td><td>Qualquer número de a té 9 letra de a até z ou _</td><td>\w{10}</td></tr><tr><td>|</td><td>Um ou outro</td><td>@$</td></tr><tr><td>()</td><td>Captura e agrupa</td><td>(\w{4})</td></tr></tbody></table>
 <p>https://www.w3schools.com/python/python_regex.asp</p>
 <p>https://tableless.com.br/o-basico-sobre-expressoes-regulares/</p>
 
