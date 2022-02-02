@@ -10,6 +10,13 @@
 
 <h4>Orientação a objetos avançada:</h4>
 <p>https://www.alura.com.br/artigos/como-comparar-objetos-no-python</p>
+<p>https://www.programiz.com/python-programming/property</p>
+<p>https://www.w3schools.com/python/python_inheritance.asp</p>
+<p>https://www.programiz.com/python-programming/polymorphism</p>
+<p>https://www.geeksforgeeks.org/polymorphism-in-python/</p>
+<p>https://www.geeksforgeeks.org/duck-typing-in-python/</p>
+<p>https://www.geeksforgeeks.org/abstract-classes-in-python/</p>
+<p>https://docs.python.org/3/library/abc.html</p>
 
 <h4>Factory mehod:</h4>
 <p>https://pt.wikipedia.org/wiki/Factory_Method</p>
