@@ -1,4 +1,3 @@
-# html_css
 <h2>Porjetos e anotações dos meus estudos de html e css</h2>
 
 <h4>Links relevantes de HTML e CSS básico:</h4>
