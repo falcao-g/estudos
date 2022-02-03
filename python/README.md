@@ -7,6 +7,8 @@
 <p>https://www.alura.com.br/artigos/o-que-sao-iteradores-no-python</p>
 <p>https://www.alura.com.br/artigos/ordenando-listas-no-python</p>
 <p>https://www.alura.com.br/artigos/trabalhando-com-o-dicionario-no-python</p>
+<p>https://www.alura.com.br/artigos/formatando-moeda-no-python</p>
+<p>https://www.alura.com.br/artigos/a-diferenca-das-funcoes-input-e-raw-input-no-python</p>
 
 <h4>Orientação a objetos avançada:</h4>
 <p>https://www.alura.com.br/artigos/como-comparar-objetos-no-python</p>
