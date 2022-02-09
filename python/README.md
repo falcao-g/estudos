@@ -38,3 +38,8 @@
 
 <h4>Requests:</h4>
 <p>https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Headers</p>
+
+<h4>TDD (Test Driven Development):</h4>
+<p>https://code.visualstudio.com/docs/python/testing</p>
+<p>https://cursos.alura.com.br/forum/topico-nao-seria-melhor-usar-docstrings-130197</p>
+<p>https://dzone.com/articles/7-popular-unit-test-naming</p>
