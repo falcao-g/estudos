@@ -45,3 +45,4 @@
 <p>https://code.visualstudio.com/docs/python/testing</p>
 <p>https://cursos.alura.com.br/forum/topico-nao-seria-melhor-usar-docstrings-130197</p>
 <p>https://dzone.com/articles/7-popular-unit-test-naming</p>
+<p>https://www.alura.com.br/artigos/montando-cenarios-de-testes-com-o-pytest</p>
